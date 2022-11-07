@@ -1,0 +1,10 @@
+.main__case_text-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 241px 114px 141px;
+  grid-template-rows: 54px;
+  gap: 10px;
+  margin-top: 29px;
+}

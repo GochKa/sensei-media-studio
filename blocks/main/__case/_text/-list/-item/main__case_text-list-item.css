@@ -1,0 +1,13 @@
+.main__case_text-list-item {
+  margin: 0;
+  background: #77B2D3;
+  border-radius: 250px;
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -6,3 +6,27 @@
 @import url(../blocks/header/__list/_item/header__list_item.css);
 @import url(../blocks/header/__list/_item/-link/header__list_item-link.css);
 @import url(../blocks/header/__button/header__button.css);
+
+@import url(../blocks/main/main.css);
+@import url(../blocks/main/__case/main__case.css);
+@import url(../blocks/main/__case/_text/main__case_text.css);
+@import url(../blocks/main/__case/_text/-info/main__case_text-info.css);
+@import url(../blocks/main/__case/_text/-list/main__case_text-list.css);
+@import url(../blocks/main/__case/_text/-subtitle/main__case_text-subtitle.css);
+@import url(../blocks/main/__case/_text/-title/main__case_text-title.css);
+@import url(../blocks/main/__case/_text/-list/-item/main__case_text-list-item.css);
+
+@import url(../blocks/info/info.css);
+@import url(../blocks/info/__block/info__block.css);
+@import url(../blocks/info/__block/__title/info__title.css);
+@import url(../blocks/info/__grid/info__grid.css);
+@import url(../blocks/info/__grid/_item/info__grid_item.css);
+@import url(../blocks/info/__grid/_item/-title/info__grid_item-title.css);
+@import url(../blocks/info/__grid/_item/-text/info__grid_item-text.css);
+
+
+
+
+
+@import url(../blocks/header/case.css);
+@import url(../blocks/main/block.css);

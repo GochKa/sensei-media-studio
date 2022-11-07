@@ -1,0 +1,7 @@
+.info__block {
+  margin: 0 auto;
+  width: 1170px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.08);
+  border-radius: 20px;
+}

@@ -1,0 +1,14 @@
+.info__grid_item {
+  border-right: 1px solid #C7C7C7;
+  display: flex;
+  flex-direction: column;
+  margin-left: 62px;
+}
+
+.info__grid_item:first-of-type {
+  margin-left: 0;
+}
+
+.info__grid_item:last-of-type {
+  border-right: 0;
+}

@@ -1,0 +1,6 @@
+.case {
+  display: flex;
+  align-items: center;
+  max-width: 1400px;
+  margin: 0 auto;
+}

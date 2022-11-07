@@ -1,0 +1,11 @@
+.info__block_title {
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 48px;
+  text-transform: uppercase;
+  color: #333333;
+  padding-top: 40px;
+  padding-left: 55px;
+}

@@ -1,0 +1,10 @@
+.info__grid {
+  display: grid;
+  grid-template-rows: 86px;
+  grid-template-columns: 198px 351px 271px 228px;
+  align-items: center;
+  margin-left: 53px;
+  margin-right: 71px;
+  padding-top: 33px;
+  padding-bottom: 47px;
+}
